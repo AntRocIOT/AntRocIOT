@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello everyone my name is Antonio.
+I am a software engineer eager to work on projects and programs; I am interested in embedded systems, microcontrollers, and robotics.
+
+:mortar_board:-Computer engineering graduate at University of Barcelona.<br />
+💬-Languages what i code: C/C++,Java and Python.<br />
+📫-Contact: arocacu@gmail.com
+
+
+
 
 <!--
 **AntRocIOT/AntRocIOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
