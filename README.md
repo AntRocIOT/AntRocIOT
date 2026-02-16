@@ -1,5 +1,5 @@
 ## Hello everyone my name is Antonio.
-I am a software engineer eager to work on projects and programs; I am interested in embedded systems, microcontrollers, and robotics.
+I am a software engineer ready to work on projects and programs; I am interested in embedded systems, microcontrollers, and robotics.
 
 :mortar_board:-Computer engineering graduate at University of Barcelona.<br />
 💬-Languages what i code: C/C++,Java and Python.<br />
